@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm Minn Maung Maung and 16 years old. I'm a beginner who just got into IT months ago, currently joining NCC L4DC
+I'm Minn Maung Maung and 16 years old. I'm a beginner who just got into IT months ago, currently joining **NCC L4DC**
 and loves about security related fields. I have no specific skills yet, but I want to network with same tech enthusiasts
-to learn anything from them, and have a goal to work in Cybersecurity (blue teaming). 
+to learn anything from them, and have a goal to work in **Cybersecurity** *(Blue Team)*. 
 
 - 🔰 A beginner to IT.
 - 🐧 A Linux enjoyer, loves everything about a cute little penguin.
