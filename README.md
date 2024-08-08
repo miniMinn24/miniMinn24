@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm Minn Maung Maung and 16 years old. I'm a beginner who just got into IT months ago and loves about
-security related fields.
+I'm Minn Maung Maung and 16 years old. I just got into IT months ago
+and loves about security related fields.
 
 - 🔰 A beginner to IT.
 - 🐧 Linux enjoyer, loves everything about a cute little penguin.
