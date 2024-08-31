@@ -8,7 +8,7 @@ and interested in security related fields.
 - 🔰 A beginner to IT.
 - 🐧 Linux enjoyer, loves everything about a cute little penguin.
 - 🌱 I'm currently studying basic programming and Linux.
-- 👀 I'll learn anything as much as I can from Educational Platforms.
+- 👀 I'll learn anything as much as I can from you and Educational Platforms.
 - 🫂 I want to make networks and friends to improve my soft-skill.
 - 📝 Sometimes, I write contents to share what I know on social media.
 - 📫 How to reach me: miniminnmgmg24@gmail.com
