@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Minn Maung Maung and 16 years old. I just got into IT months ago
+I'm miniMinn. I just got into IT months ago
 and interested in security related fields.
 
 - 🔰 A beginner to IT.
