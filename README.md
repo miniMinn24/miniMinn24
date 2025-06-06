@@ -1,16 +1,14 @@
-# Hello there, I'm Minn Maung Maung (miniMinn) 👋
+# Hello there, I'm miniMinn 👋
 
 ## About Me
 
-I'm miniMinn. I just got into IT months ago
-and interested in security related fields.
+I love coding and interested in security related fields.
 
 - 🔰 A beginner to IT.
 - 🐧 Linux enjoyer, loves everything about a cute little penguin.
-- 🌱 I'm currently studying basic programming and Linux.
-- 👀 I'll learn anything as much as I can from you and Educational Platforms.
-- 🫂 I want to make networks and friends to improve my soft-skill.
-- 📝 Sometimes, I write contents to share what I know on social media.
+- 🌱 Ccurrently learning fundamental programming and Linux.
+- 🫂 I want to network with people and friends to improve my soft-skill.
+- 📝 I often share my educational contents.
 - 📫 How to reach me: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
