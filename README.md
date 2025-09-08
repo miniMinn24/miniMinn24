@@ -2,14 +2,14 @@
 
 ## About Me
 
-I love coding and interested in security related fields.
+I love learning through hands-on practicals on my home lab, studying Cybersecurity in defensive side.
 
-- 🔰 A beginner to IT.
+- 🔰 A beginner to IT, always active to learn.
 - 🐧 Linux enjoyer, loves everything about a cute little penguin.
-- 🌱 Ccurrently learning fundamental programming and Linux.
-- 🫂 I want to network with people and friends to improve my soft-skill.
-- 📝 I often share my educational contents.
-- 📫 How to reach me: miniminnmgmg24@gmail.com
+- 🌱 Currently learning NCC L4DC and Networking specific, building foundation to persue a professional career in Cybersecurity field.
+- 🫂 Welcome anytime to people and juniors/seniors to grow together with my soft-skill.
+- 📝 I often share my technical related contents about my experiences, projects and knowledge.
+- 📫 Reach me on: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
 
@@ -17,6 +17,7 @@ I love coding and interested in security related fields.
 
 Feel free to connect with me anytime!
 
+- [LinkedIn](https://www.linkedin.com/in/minn-maung-maung-03352028a/)
 - [Facebook](https://www.facebook.com/profile.php?id=100087719122627)
 - [Telegram](t.me/@miniMinn24)
 
