@@ -6,7 +6,7 @@ I love learning through hands-on practicals on my home lab, studying Cybersecuri
 
 - 🔰 A beginner to IT, always active to learn.
 - 🐧 Linux enjoyer, loves everything about a cute little penguin.
-- 🌱 Currently learning NCC L4DC and Networking specific, building foundation to persue a professional career in Cybersecurity field.
+- 🌱 1^{st} Year CS Student: Currently studying NCC L4DC at a local college, building a foundation to persue a professional career in Cybersecurity field.
 - 🫂 Welcome anytime to people and juniors/seniors to grow together with my soft-skill.
 - 📝 I often share my technical related contents about my experiences, projects and knowledge.
 - 📫 Reach me on: miniminnmgmg24@gmail.com
