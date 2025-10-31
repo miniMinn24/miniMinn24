@@ -16,18 +16,9 @@ I'm socially welcome ;)
 - [Instagram](https://www.instagram.com/miniminn_ig?igsh=aWIyZjhsa2FiaGhs)
 - [X (Twitter)](https://x.com/miniMinn24?t=CjacvDF0KcV51epICnFI7g&s=09)
 
-<a href="https://www.linkedin.com/in/min-maung-maung-03352028a/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
-    <img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
-  </picture>
+<a href="https://www.linkedin.com/in/min-maung-maung-03352028a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/miniminn_ig/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
-    <img alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
-  </picture>
-</a>   
+<a href="https://www.instagram.com/miniminn_ig/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
