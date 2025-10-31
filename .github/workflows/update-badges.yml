@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: min-maung-maung.68539eb2
+          CREDLY_USER: Min Maung Maung
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
