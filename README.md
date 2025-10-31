@@ -22,6 +22,8 @@ I enjoy doing pretty much stuffs with my home lab - to familiarize myself with l
 
 ## Certifications and Training
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/e248ed44-5712-4c9b-a035-283b1e822840" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/6f89b56a-5f7a-4bc6-ba0d-4a4d3276264e" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 If you wanna do projects, talk, share or anything, feel free to network with me anytime!
