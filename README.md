@@ -1,25 +1,18 @@
-# Hello there, I'm miniMinn 👋
+# I'm miniMinn | Linux & Cybersecurity Enthusiast
+I do pretty much practical and learning stuffs with my home lab.
 
-## About Me
-
-I love learning through hands-on practicals on my home lab, studying Cybersecurity in defensive side.
-
-- 🔰 A beginner to IT, always active to learn.
-- 🐧 Linux enjoyer, loves everything about a cute little penguin.
-- 🌱 1st Year Computer Science Student: Currently studying NCC L4DC at a local college, building a foundation to pursue a career in Cybersecurity fields.
-- 🫂 Welcome anytime to people and juniors/seniors to grow together, learning to improve my soft-skills.
-- 📝 I often share my technical related contents about my experiences, projects and knowledge.
+- 🐧 My primary desktop is Arch Linux with Hyprland environment.
+- 📝 I frequently share my open-source/CS contents, project walkthrough, and knowledge on [LinkedIn](https://www.linkedin.com/in/minn-maung-maung-03352028a/), [Facebook](https://www.facebook.com/profile.php?id=100087719122627), [Instagram](https://www.instagram.com/miniminn_ig?igsh=aWIyZjhsa2FiaGhs), [X (Twitter)](https://x.com/miniMinn24?t=CjacvDF0KcV51epICnFI7g&s=09).
 - 📫 Reach me on: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
 
 ## Get in Touch
 
-Feel free to connect with me anytime!
-
+If you wanna do projects, talk, share or anything, feel free to network with me anytime!
+I'm socially welcome ;)
 - [LinkedIn](https://www.linkedin.com/in/minn-maung-maung-03352028a/)
 - [Facebook](https://www.facebook.com/profile.php?id=100087719122627)
-- [Telegram](t.me/@miniMinn24)
+- [Instagram](https://www.instagram.com/miniminn_ig?igsh=aWIyZjhsa2FiaGhs)
+- [X (Twitter)](https://x.com/miniMinn24?t=CjacvDF0KcV51epICnFI7g&s=09)
 
-
-*Thank you for visiting!🌿*
