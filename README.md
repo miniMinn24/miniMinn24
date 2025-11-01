@@ -9,7 +9,7 @@ Hello, I'm a L4DC 1st year student of NCC Education Ltd., and I pretty much enjo
 
 - 🐧 My primary desktop is Arch Linux with Hyprland environment.
 - 📚 As a full-time learner, I study practical courses from Coursera, HackTheBox, and YouTube.
-- 📝 I share my open-source/CS contents, project walkthrough, and knowledge on [LinkedIn](https://www.linkedin.com/in/minn-maung-maung-03352028a/), [Facebook](https://www.facebook.com/profile.php?id=100087719122627), [Instagram](https://www.instagram.com/miniminn_ig?igsh=aWIyZjhsa2FiaGhs), [X (Twitter)](https://x.com/miniMinn24?t=CjacvDF0KcV51epICnFI7g&s=09).
+- 📝 I share my open-source/CS contents, project walkthrough, and knowledge on [LinkedIn](https://www.linkedin.com/in/minn-maung-maung-03352028a/), [Facebook](https://www.facebook.com/share/17VUdL46FU/), [Instagram](https://www.instagram.com/miniminn_ig), [X (Twitter)](https://x.com/miniMinn24).
 - 📫 Reach me on: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
