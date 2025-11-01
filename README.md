@@ -1,7 +1,11 @@
 ![banner](Images/banner.webp)
 
 # I'm miniMinn | Linux & Cybersecurity Enthusiast (>. < )
+
+![](https://img.shields.io/github/last-commit/miniMinn24/miniMinn24?&style=for-the-badge&color=429ddb&labelColor=141a29)
+
 Hello, I'm a L4DC 1st year student of NCC Education Ltd., and I pretty much enjoy doing many stuffs with my home lab - including Windows/Linux OS management, network projects, and cybersecurity analyst labs to actively familiarize myself with a critical **problem-solving mindset**.
+
 
 - 🐧 My primary desktop is Arch Linux with Hyprland environment.
 - 📚 As a full-time learner, I study practical courses from Coursera, HackTheBox, and YouTube.
