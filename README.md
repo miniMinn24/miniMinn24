@@ -1,6 +1,6 @@
 ![banner](Images/banner.webp)
 
-# I'm miniMinn - Linux & Cybersecurity Enthusiast (>. < )
+# I'm miniMinn | Linux & Cybersecurity Enthusiast (>. < )
 Hello, I'm a L4DC 1st year student of NCC Education Ltd., and I pretty much enjoy doing many stuffs with my home lab - including Windows/Linux OS management, network projects, and cybersecurity analyst labs to actively familiarize myself with a critical **problem-solving mindset**.
 
 - 🐧 My primary desktop is Arch Linux with Hyprland environment.
@@ -50,4 +50,10 @@ _I'm socially welcome ;)_
 </a>
 <a href="https://discord.com/users/1060219053551124511">
   <img src="Icons/discord.png" width="38" alt="Discord">
+</a>
+<a href="https://lichess.org/@/miniMinn24">
+  <img src="Icons/lichess.webp" width="38" alt="Lichess">
+</a>
+<a href="https://www.chess.com/member/miniminn24">
+  <img src="Icons/chess_dot_com.webp" width="38" alt="Chess.com">
 </a>
