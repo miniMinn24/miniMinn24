@@ -1,4 +1,4 @@
-<!-- ![banner](Images/banner.webp) -->
+![banner](Images/banner.webp)
 
 # I'm miniMinn - Linux & Cybersecurity Enthusiast (>. < )
 Hello, I'm a L4DC 1st year student of NCC Education Ltd., and I pretty much enjoy doing many stuffs with my home lab - including Windows/Linux OS management, network projects, and cybersecurity analyst labs to actively familiarize myself with a critical **problem-solving mindset**.
