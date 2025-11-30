@@ -49,7 +49,7 @@ Where I share my personal tech **blogs, Linux tips, and many resourceful content
 If you wanna do projects, talk, share or anything, feel free to network with me anytime!
 _I'm socially welcome ;)_
 
-<a href="https://t.me/@miniMinn24">
+<a href="https://t.me/miniMinn_Tech_Diary">
   <img src="Icons/telegram.png" width="38" alt="Telegram">
 </a>
 <a href="https://discord.com/users/1060219053551124511">
