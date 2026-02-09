@@ -13,7 +13,7 @@ Hello, I'm a L4DC 1st year student of NCC Education Ltd., and I pretty much enjo
 - 📫 Reach me on: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
-[![miniMinn’s github stats](https://github-readme-stats.vercel.app/api?username=miniMinn24)](https://github.com/miniMinn24)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=miniMinn24)](https://git.io/streak-stats)
 
 ## Skills
 <img alt="Bash" src="https://img.shields.io/badge/Linux Administration-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=%2361DAFB"/> <img alt="Python" src="https://img.shields.io/badge/Small Scripting-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB"/> <img alt="Hyprland Ricer" src="https://img.shields.io/badge/Hyprland_Ricer-%2320232a?style=for-the-badge&logo=neovim&logoColor=%2361DAFB"/> <img alt="Networking" src="https://img.shields.io/badge/Networking-%2320232a.svg?style=for-the-badge&logo=internet&logoColor=%2361DAFB"/> <img alt="IT Support" src="https://img.shields.io/badge/IT Support-%2320232a.svg?style=for-the-badge&logo=windows&logoColor=%2361DAFB"/> 
