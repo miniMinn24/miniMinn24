@@ -58,6 +58,3 @@ _I'm socially welcome ;)_
 <a href="https://lichess.org/@/miniMinn24">
   <img src="Icons/lichess.webp" width="38" alt="Lichess">
 </a>
-<a href="https://www.chess.com/member/miniminn24">
-  <img src="Icons/chess_dot_com.webp" width="38" alt="Chess.com">
-</a>
