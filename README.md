@@ -22,8 +22,9 @@ Hello, I'm a L4DC 1st year student of NCC Education Ltd., and I pretty much enjo
 
 ## Certifications and Training
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/e248ed44-5712-4c9b-a035-283b1e822840" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/6f89b56a-5f7a-4bc6-ba0d-4a4d3276264e" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/ebc738e0-80c7-419a-9f14-5f479f05a4e3" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/00753149-03e6-40f1-860d-36feff58fb89" title="Tools for Data Science"><img src="https://images.credly.com/size/80x80/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" alt="Tools for Data Science" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/3fd997a4-3f5c-41b0-a5ae-b426863670f2" title="Data Science Orientation"><img src="https://images.credly.com/size/80x80/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="Data Science Orientation" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## Social Networking
