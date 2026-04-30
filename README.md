@@ -17,9 +17,9 @@ Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.
 
 ## Certifications and Training
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/ebc738e0-80c7-419a-9f14-5f479f05a4e3" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/00753149-03e6-40f1-860d-36feff58fb89" title="Tools for Data Science"><img src="https://images.credly.com/size/80x80/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" alt="Tools for Data Science" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/3fd997a4-3f5c-41b0-a5ae-b426863670f2" title="Data Science Orientation"><img src="https://images.credly.com/size/80x80/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="Data Science Orientation" width="80" height="80"></a>
+[![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/ebc738e0-80c7-419a-9f14-5f479f05a4e3)
+[![Tools for Data Science](https://images.credly.com/size/80x80/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)](https://www.credly.com/badges/00753149-03e6-40f1-860d-36feff58fb89)
+[![Data Science Orientation](https://images.credly.com/size/80x80/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](https://www.credly.com/badges/3fd997a4-3f5c-41b0-a5ae-b426863670f2)
 <!--END_SECTION:badges-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miniMinn24)](https://git.io/streak-stats)
