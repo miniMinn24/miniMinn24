@@ -3,7 +3,7 @@
 # I'm miniMinn | Linux & Cybersecurity Enthusiast
 
 > [!IMPORTANT]
-> My **self-hosting portfolio** is live here: [Writeups/Knowledge Base](https://miniminn24.github.io/Obsidian_Notebook)
+> My **self-hosting portfolio** is live here: [Writeups/Knowledge Base](https://miniminn24.github.io/miniMinn.md)
 
 ![](https://img.shields.io/github/last-commit/miniMinn24/miniMinn24?&style=for-the-badge&color=429ddb&labelColor=141a29)
 
