@@ -1,4 +1,4 @@
-![banner](Images/banner.webp)
+![banner](Images/banner_2026.webp)
 
 # I'm miniMinn | Linux & Cybersecurity Enthusiast
 
