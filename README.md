@@ -15,18 +15,26 @@ Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.
 - 😄 Pronouns: He/Him
 
 ## Certifications and Training
-<!--START_SECTION:badges-->
-[![Google IT Support Professional Certificate(v.3)](https://images.credly.com/size/80x80/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob)](https://www.credly.com/badges/eb9bbbed-20e1-4c33-8bd2-40cc6c3a2fce)
-[![LFS101: Introduction to Linux](https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/e248ed44-5712-4c9b-a035-283b1e822840)
-[![Python for Data Science and AI](https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](https://www.credly.com/badges/6f89b56a-5f7a-4bc6-ba0d-4a4d3276264e)
-<!--END_SECTION:badges-->
-
+<p align="center">
+  <a href="https://www.credly.com/badges/d78b1c55-bddc-4773-a273-901b48190262/public_url">
+    <img src="https://images.credly.com/size/340x340/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/blob" alt="Google Cybersecurity Professional Certificate (v.2)" width="160" />
+  </a>
+  <a href="https://www.credly.com/badges/eb9bbbed-20e1-4c33-8bd2-40cc6c3a2fce/public_url">
+    <img src="https://images.credly.com/size/340x340/images/f3f0fb7b-4d69-47b0-acd6-c9264725a518/blob" alt="Google IT Support Professional Certificate (v.3)" width="160" />
+  </a>
+  <a href="https://www.credly.com/badges/e248ed44-5712-4c9b-a035-283b1e822840/public_url">
+    <img src="https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="160" />
+  </a>
+  <a href="https://www.credly.com/badges/6f89b56a-5f7a-4bc6-ba0d-4a4d3276264e/public_url">
+    <img src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="160" />
+  </a>
+</p>
 
 ## Social Networking
 If you wanna do projects, talk, share or anything, feel free to network with me anytime!  
-All link in one bio: [Linktree](https://linktr.ee/miniminntechdiary.edu)
+All link in one bio: [Linktree](https://linktr.ee/dofense.edu)
 
-<a href="https://t.me/miniMinnTechDiary">
+<a href="https://t.me/dofense">
   <img src="Icons/telegram.png" width="38" alt="Telegram">
 </a>
 <a href="https://www.linkedin.com/in/min-maung-maung-03352028a/">
