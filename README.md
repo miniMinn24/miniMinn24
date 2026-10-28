@@ -1,20 +1,27 @@
 ![banner](Images/banner_2026.webp)
 
-# I'm miniMinn | Linux & Cybersecurity Enthusiast
+# I'm miniMinn | Community Founder & Linux Admin Instructor
 
 > My **self-hosting portfolio** is live here: [Writeups/Knowledge Base](https://miniminn-sec.pages.dev)
 
 ![](https://img.shields.io/github/last-commit/miniMinn24/miniMinn24?&style=for-the-badge&color=429ddb&labelColor=141a29)
 
-Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.com/). I pretty much enjoy doing my home lab: Windows/Linux OS management, network flow analysis, and weekly cybersecurity labs to actively familiarize myself with **problem-solvings**.
+Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.com/). I pretty much enjoy doing my home lab and teaching others with structured learning path. I'm also a founder of [DOFENSE - IT Foundation](https://t.me/dofense) and delivering my own online/video courses.
 
-- 🐧 My primary desktop: Arch Linux x Hyprland
-- 📚 Studying practical courses from Coursera, HackTheBox and YouTube as a part-time job.
-- 📝 I share my open-source contents, walkthrough and knowledge notes on [Writeups/Knowledge Base](https://miniminn-sec.pages.dev)
+- 🐧 My primary desktop: Arch Linux x KDE (Hyprland is my ex)
+- 📝 Personal knowledge base: [Writeups/Knowledge Base](https://miniminn-sec.pages.dev)
 - 📫 Reach me on: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
+
+## Education
+- **NCC Level 5-Diploma in Computing with Cybersecurity** - May, 2026 - Present
+- **Diploma in Networking** - Apr 2026 - Present
+- **NCC Level-4 Diploma in Computing** - Aug, 2024 - Jan, 2026
+- **NCC Level-3 Diploma in Computing** - Jun, 2023- Oct, 2024
+
 ## Certifications and Training
+
 <p align="center">
   <a href="https://www.credly.com/badges/d78b1c55-bddc-4773-a273-901b48190262/public_url">
     <img src="https://images.credly.com/size/340x340/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/blob" alt="Google Cybersecurity Professional Certificate (v.2)" width="160" />
