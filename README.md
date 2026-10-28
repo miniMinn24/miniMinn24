@@ -2,14 +2,13 @@
 
 # I'm miniMinn | Community Founder & Linux Admin Instructor
 
-> My **self-hosting portfolio** is live here: [Writeups/Knowledge Base](https://miniminn-sec.pages.dev)
-
 ![](https://img.shields.io/github/last-commit/miniMinn24/miniMinn24?&style=for-the-badge&color=429ddb&labelColor=141a29)
 
-Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.com/). I pretty much enjoy doing my home lab and teaching others with structured learning path. I'm also a founder of [DOFENSE - IT Foundation](https://t.me/dofense) and delivering my own online/video courses.
+Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.com/). I pretty much enjoy doing my home lab and teaching others with structured learning path. I'm also a founder of **DOFENSE - IT Foundation** and delivering my own online/video courses.
 
 - 🐧 My primary desktop: Arch Linux x KDE (Hyprland is my ex)
 - 📝 Personal knowledge base: [Writeups/Knowledge Base](https://miniminn-sec.pages.dev)
+- 🇲🇲 My community: [DOFENSE - IT Foundation](https://t.me/dofense) 
 - 📫 Reach me on: miniminnmgmg24@gmail.com
 - 😄 Pronouns: He/Him
 
