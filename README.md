@@ -1,6 +1,6 @@
 ![banner](Images/banner_2026.webp)
 
-# I'm miniMinn | Community Founder & Linux Admin Instructor
+# I'm miniMinn | Community Founder & Instructor
 
 ![](https://img.shields.io/github/last-commit/miniMinn24/miniMinn24?&style=for-the-badge&color=429ddb&labelColor=141a29)
 
@@ -40,10 +40,7 @@ Hello, I'm a L5DC (2nd) year student of [NCC Education Ltd.](https://www.nccedu.
 If you wanna do projects, talk, share or anything, feel free to network with me anytime!  
 All link in one bio: [Linktree](https://linktr.ee/dofense.edu)
 
-<a href="https://t.me/dofense">
-  <img src="Icons/telegram.png" width="38" alt="Telegram">
-</a>
-<a href="https://www.linkedin.com/in/min-maung-maung-03352028a/">
-  <img src="Icons/linkedin.png" width="38" alt="LinkedIn">
-</a>
-
+[![Knowledge Base](https://img.shields.io/badge/Knowledge_Base-7411ad?style=for-the-badge&logo=obsidian&logoColor=white)](https://miniminn-sec.pages.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-1490d9?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/aung-thura-hein-9444143a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-maung-maung-03352028a/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/miniminn_24)
